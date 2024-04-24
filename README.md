@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there 👋, I'm Sanjay!
 
-<!--
-**vsanjayHub/vsanjayHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about myself and what I'm passionate about:
 
-Here are some ideas to get you started:
+#### 🚀 About Me
+I'm a technologist with a keen interest in building scalable and efficient applications. I thrive on challenges and am always eager to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm Working On
+I’m currently working on several personal projects that involve:
+- Building AI applications in varous domains using deep learning, NLP and other advanced techniques
+
+
+#### 🌱 I’m Currently Learning
+- Advanced techniques in NLP and LLM
+- Automation using AI combined with programming and other technologies
+- Advance Cybersecurity
+
+#### 👯 I’m Looking to Collaborate On
+- Open source projects, especially those focused on environmental sustainability or education
+- Innovative tools that simplify development processes
+
+#### 🤔 I’m Looking for Help With
+- Advanced concepts in NLP 
+- Ideas in applying AI
+
+#### 💬 Ask Me About
+- Best practices in web development and how to manage full-stack projects.
+- Building tech teams globally and creating organizations that scale
+- Entrepreneurship and startups
+
+#### 📫 How to Reach Me
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sanjayv) for professional inquiries or collaborations.
+
+#### 😄 Pronouns
+He/Him
+
+#### ⚡ Fun Fact
+I like to hike and read on various subjects and I walk a lot.
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and let's get in touch to create something amazing together.
+
