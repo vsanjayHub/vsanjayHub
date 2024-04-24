@@ -38,6 +38,8 @@ He/Him
 I like to hike and read on various subjects and I walk a lot.
 
 ---
+![Alt text]([url_to_image](https://www.researchgate.net/figure/Common-architectures-of-neural-networks-A-The-simplest-neural-network-comprises-three_fig2_339717934))
+
 
 Thank you for visiting my profile! Feel free to explore my repositories and let's get in touch to create something amazing together.
 
