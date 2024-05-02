@@ -7,7 +7,7 @@ I'm a technologist with a keen interest in building scalable and efficient appli
 
 #### 🔭 What I'm Working On
 I’m currently working on several personal projects that involve:
-- Building AI applications in varous domains using deep learning, NLP and other advanced techniques
+- Building AI applications in various domains using deep learning, NLP and other techniques like computer vision
 
 
 #### 🌱 I’m Currently Learning
