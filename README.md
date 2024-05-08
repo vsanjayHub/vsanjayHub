@@ -4,17 +4,17 @@ Welcome to my GitHub profile! Here's a bit about myself and what I'm passionate 
 
 #### 🚀 About Me
 
-Hands On Engineering leader with experience leading development of products from inception through delivery and managing large teams. Experienced with designing technology organizations, scaling systems and teams, technology strategy based on technology trends, cost effectiveness and competitive advantage, while cross-collaborating with the executive team for managing compliance, corporate governance, budgeting and talent retention. Entrepreneurship, engineering and program management skills.
+Hands On Engineering leader with experience leading development of products from inception through delivery and managing large teams. Previously worked with companies like Inte, Intuit, BCBS, IBM and started business. Experienced with designing technology organizations, scaling systems and teams, technology strategy based on technology trends, cost effectiveness and competitive advantage, while cross-collaborating with the executive team for managing compliance, corporate governance, budgeting and talent retention. Entrepreneurship, engineering and program management skills.
 I thrive on challenges and am always eager to learn new technologies. 
 
 #### 🔭 What I'm Working On
-I’m currently working on several personal projects that involve:
+I’m currently working on personal projects that involve:
 - Building AI applications in various domains using deep learning, NLP and other techniques like computer vision
 
 
 #### 🌱 I’m Currently Learning
 - Advanced techniques in NLP and LLM
-- Automation using AI combined with programming and other technologies
+- Automation using AI combined with programming for applications 
 - Advance Cybersecurity
 
 #### 👯 I’m Looking to Collaborate On
@@ -22,11 +22,12 @@ I’m currently working on several personal projects that involve:
 - Innovative tools that simplify development processes
 
 #### 🤔 I’m Looking for Help With
-- Advanced concepts in NLP 
+- Productising AI projects
 - Ideas in applying AI
 
 #### 💬 Ask Me About
-- Best practices in web development and how to manage full-stack projects.
+- Managing remote and offshore teams.
+- AI 
 - Building tech teams globally and creating organizations that scale
 - Entrepreneurship and startups
 
