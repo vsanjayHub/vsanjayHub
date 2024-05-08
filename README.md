@@ -29,7 +29,7 @@ I’m currently working on several personal projects that involve:
 - Entrepreneurship and startups
 
 #### 📫 How to Reach Me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sanjayv) for professional inquiries or collaborations.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sanjayvankudre) for professional inquiries or collaborations.
 
 #### 😄 Pronouns
 He/Him
