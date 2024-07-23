@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a bit about myself and what I'm passionate 
 
 #### 🚀 About Me
 
-Hands On Engineering leader with experience leading development of products from inception through delivery and managing large teams. Previously worked with companies like Inte, Intuit, BCBS, IBM and started business. Experienced with designing technology organizations, scaling systems and teams, technology strategy based on technology trends, cost effectiveness and competitive advantage, while cross-collaborating with the executive team for managing compliance, corporate governance, budgeting and talent retention. Entrepreneurship, engineering and program management skills.
+Hands On Engineering leader with experience leading development of products from inception through delivery and managing large teams. Previously worked with companies like Intel, Intuit, BCBS, IBM and started my own business. Experienced with designing technology organizations, scaling systems and teams, technology strategy based on technology trends, cost effectiveness and competitive advantage, while cross-collaborating with the executive team for managing compliance, corporate governance, budgeting and talent retention. Entrepreneurship, engineering and program management skills.
 I thrive on challenges and am always eager to learn new technologies. 
 
 #### 🔭 What I'm Working On
